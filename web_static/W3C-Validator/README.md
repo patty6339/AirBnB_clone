@@ -35,4 +35,3 @@ All errors are printed in `STDERR`; Exit status = # of errors (0 on success)
 ## References
 
 https://developer.mozilla.org/en-US/
-
